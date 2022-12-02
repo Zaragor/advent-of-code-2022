@@ -1,5 +1,6 @@
-mod day1;
+mod day2;
 
 fn main() {
-    day1::day1::part2();
+    let result = day2::day2::part2();
+    println!("{result}");
 }
